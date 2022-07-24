@@ -1,7 +1,20 @@
-- 👋 Hi, I’m @seb-redbeard, due to my name and having a red beard. No connections to the infamous Captain what-so-ever me thinksy...
-- 👀 I’m interested in CG stuff. Houdini, Unreal Engine, Zbrush
-- 🌱 I’m currently learning everything. 
+**👋 Welcome!** 
+
+- :art: I am a CG artist currently residing in the south of Andalucia, Spain.
+- :sparkles: Interested in CG stuff and Game development. Houdini, Unreal Engine, Zbrush.
+
+:zzz: i like to play ol' adventure games like Day of the Tentacle and Monkey Island(s).
+
 - 📫 How to reach me: sebastjan.rijavec@gmail.com
+
+
+
+
+
+
+
+
+
 
 <!---
 seb-redbeard/seb-redbeard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
