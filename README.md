@@ -1,6 +1,6 @@
 **👋 Welcome!** 
 
-- :art: I am a CG artist currently residing in the south of Andalucia, Spain.
+- :art: I am a CG artist currently residing in Andalucia, Spain.
 - :sparkles: Interested in CG stuff and Game development. Houdini, Unreal Engine, Zbrush.
 
 :zzz: i like to play ol' adventure games like Day of the Tentacle and Monkey Island(s).
